@@ -24,13 +24,17 @@
 - 身高 base 66 英尺
 - 性别 0 为男 1 为女
 
+网络结构：
+
+![](images/my-neural-network-structure.png)
+
 损失计算：
 
 ![](http://latex.codecogs.com/gif.latex?MSE=\frac{1}{n}\sum_{i=1}^{n}(y_{true}-y_{pred})^{2})
 
 结果：
 
-![](images/my-neural-network.png)
+![](images/my-neural-network-loss.png)
 
 ```text
 Epoch 0 	loss: 0.177
